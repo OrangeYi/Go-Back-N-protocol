@@ -1,5 +1,4 @@
 Ziyi Chen
-20517568
 
 Make version: GNU Make 3.81
 openjdk version "1.8.0_91"
@@ -20,9 +19,3 @@ Execution step:
 3. Run sender (eg, java sender host1 9991 9992 <input file>)
 ps: Make sure u have the input file before you run the sender
 
-test:
-1. Tested emulator, receiver, sender on the same machine ubuntu1404-006.student.cs.uwaterloo.ca
-2. Tested emulator, receiver, sender on separate machines ubuntu1404-006.student.cs.uwaterloo.ca 
-                                 						 ubuntu1404-002.student.cs.uwaterloo.ca, 
-                                 						 ubuntu1404-004.student.cs.uwaterloo.ca, 
-                                 						 ubuntu1404-006.student.cs.uwaterloo.ca respectively
